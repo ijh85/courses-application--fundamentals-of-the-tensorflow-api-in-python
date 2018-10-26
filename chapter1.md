@@ -1,42 +1,15 @@
 ---
-title: 'Chapter Title Here'
+title: 'Introduction to TensorFlow'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Insert exercise title here
 
 ```yaml
-type: NormalExercise
-key: e8c1edbe67
-lang: python
-xp: 100
-skills: 2
+type: VideoExercise
+key: be5455c048
+xp: 50
 ```
 
-This is an example exercise.
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-```{python}
-
-```
-
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
-`@sct`
-```{python}
-
-```
+`@projector_key`
+f2869509dc28d84aa5318e71b6a4e82b
