@@ -3,7 +3,7 @@ title: 'Introduction to TensorFlow'
 description: 'Chapter description goes here.'
 ---
 
-## Introduction
+## Constants and Variables
 
 ```yaml
 type: VideoExercise
