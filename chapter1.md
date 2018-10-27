@@ -3,7 +3,7 @@ title: 'Introduction to TensorFlow'
 description: 'Chapter description goes here.'
 ---
 
-## Insert exercise title here
+## Introduction
 
 ```yaml
 type: VideoExercise
