@@ -1,5 +1,5 @@
 ---
-title: 'Application: Introduction to TensorFlow'
+title: 'Application - Introduction to TensorFlow'
 description: 'Chapter description goes here.'
 ---
 
