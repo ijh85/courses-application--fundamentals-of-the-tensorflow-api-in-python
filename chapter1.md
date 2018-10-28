@@ -1,6 +1,6 @@
 ---
-title: 'Application - Introduction to TensorFlow'
-description: 'Chapter description goes here.'
+title: 'Introduction to TensorFlow'
+description: 'This chapter introduces constants, variables, basic operations, and graph-based computation in the TensorFlow API for Python.'
 ---
 
 ## Constants and Variables
